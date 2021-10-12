@@ -1,0 +1,4 @@
+data
+*.txt
+*.ipynb
+__pycache__/
